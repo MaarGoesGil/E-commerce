@@ -1,7 +1,7 @@
-# E-commerce
+# E-commerce Multiserv_
 
 
-_e-commerce proyecto grupal Multiserv_
+_Proyecto grupal_
 
 
 ## Agradecimiento al equipo ♥ :
