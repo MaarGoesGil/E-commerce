@@ -4,7 +4,7 @@
 _Proyecto grupal_
 
 
-## Agradecimiento al equipo ♥ :
+## Agradecimiento al equipo 💛 :
 
 
 *Alejandra* --> _https://github.com/AleEspinozama_
